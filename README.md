@@ -1,4 +1,4 @@
-# SentenceSimilarityPredictor
+# Sentence Similarity Predictor
 
 
 • Task: Predict probability of a pair of questions to be duplicates so that you can choose any threshold of choice. 
